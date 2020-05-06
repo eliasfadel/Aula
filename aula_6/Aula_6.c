@@ -8,6 +8,8 @@ int main()
     a = 2;
     b = 3;
 
+    b = a + 2;
+
     x = 6.2;
 
     printf ("a vale %d, b vale %d, x vale %d\n", a, b, x);
